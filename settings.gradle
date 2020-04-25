@@ -1,0 +1,4 @@
+rootProject.name = 'kcommon'
+
+
+enableFeaturePreview('GRADLE_METADATA')
